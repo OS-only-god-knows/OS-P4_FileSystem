@@ -26,7 +26,6 @@ int FAT_TWO_OFFSET;
 int ROOTDIR_OFFSET;
 int DATA_OFFSET;
 int FAT_SIZE;
-
            
 
 /*属性位掩码*/
